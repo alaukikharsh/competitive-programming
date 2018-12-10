@@ -34,7 +34,7 @@ public class Test
 	        while(c>0)
 	        {
 	            h.Add(int.Parse(g[Convert.ToInt32(bbb)]));
-	            bbb++;
+	            bbb++;;
 	            c--;;
 	        }
 	        foreach(long k in h)
