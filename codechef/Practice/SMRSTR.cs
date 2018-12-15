@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-public class Test 
+public class Test  
 {
 	public static void Main()
 	{
